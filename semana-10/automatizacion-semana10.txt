@@ -1,0 +1,10 @@
+La automatizacion permitira
+enviar notificaciones
+automaticas cuando un reporte 
+cambie de estado.
+
+Beneficios:
+- Ahorro de tiempo.
+- Menos errores manuales.
+- Mayor rapidez en la comunicacion 
+con la comunidad.

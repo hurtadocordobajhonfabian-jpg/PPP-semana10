@@ -1,0 +1,16 @@
+1.  Como ciudadano quieroreportar problemas 
+en mi barrio para que las autoridades los atiendan.
+
+2. Como lider comunitario quiero consultar 
+los reportes reliazados para hacer seguimiento.
+
+3. Como veedor ciudadano quiero generar 
+informes para presentar resultados a la comunidad.
+
+4. Como administrador quiero organizar los 
+reportes por categoria para facilitar 
+su gestion.
+
+5. Como usuario quierro recibir 
+notificaciones sobre el estado de mis reportes.
+

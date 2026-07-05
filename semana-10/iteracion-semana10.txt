@@ -1,0 +1,14 @@
+Iteracion 1
+
+Objetivo:
+Permitir el registro de reportes 
+ciudadanos.
+
+Tareas:
+- Crear formularios  de reporte.
+- Almacenar informacion.
+- Validar datos ingresados.
+
+Resultados esperando:
+Los ciudadanos pueden registrar 
+reportes correctamente.
